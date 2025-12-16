@@ -1,0 +1,156 @@
+{
+  "virchow": {
+    "baseline": {
+      "within_slide_accuracy": 0.715,
+      "cross_slide_accuracy": 0.508,
+      "accuracy_gap": 0.207,
+      "silhouette_score_class": -0.016,
+      "silhouette_score_slide": 0.018,
+      "knn_same_slide_fraction": 0.579,
+      "slide_id_accuracy": 0.807,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "uni2": {
+    "baseline": {
+      "within_slide_accuracy": 0.715,
+      "cross_slide_accuracy": 0.476,
+      "accuracy_gap": 0.239,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.018,
+      "knn_same_slide_fraction": 0.614,
+      "slide_id_accuracy": 0.85,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "phikon": {
+    "baseline": {
+      "within_slide_accuracy": 0.746,
+      "cross_slide_accuracy": 0.477,
+      "accuracy_gap": 0.269,
+      "silhouette_score_class": -0.002,
+      "silhouette_score_slide": 0.041,
+      "knn_same_slide_fraction": 0.638,
+      "slide_id_accuracy": 0.846,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "phikon_v2": {
+    "baseline": {
+      "within_slide_accuracy": 0.722,
+      "cross_slide_accuracy": 0.472,
+      "accuracy_gap": 0.25,
+      "silhouette_score_class": -0.002,
+      "silhouette_score_slide": 0.042,
+      "knn_same_slide_fraction": 0.622,
+      "slide_id_accuracy": 0.85,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "histoencoder": {
+    "baseline": {
+      "within_slide_accuracy": 0.796,
+      "cross_slide_accuracy": 0.597,
+      "accuracy_gap": 0.199,
+      "silhouette_score_class": 0.015,
+      "silhouette_score_slide": 0.091,
+      "knn_same_slide_fraction": 0.619,
+      "slide_id_accuracy": 0.903,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "virchow2": {
+    "baseline": {
+      "within_slide_accuracy": 0.718,
+      "cross_slide_accuracy": 0.472,
+      "accuracy_gap": 0.246,
+      "silhouette_score_class": 0.001,
+      "silhouette_score_slide": 0.021,
+      "knn_same_slide_fraction": 0.553,
+      "slide_id_accuracy": 0.81,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  },
+  "uni": {
+    "baseline": {
+      "within_slide_accuracy": 0.767,
+      "cross_slide_accuracy": 0.519,
+      "accuracy_gap": 0.248,
+      "silhouette_score_class": 0.002,
+      "silhouette_score_slide": 0.028,
+      "knn_same_slide_fraction": 0.621,
+      "slide_id_accuracy": 0.846,
+      "confusion_attribution": 0.0
+    },
+    "combined_aggressive": {
+      "within_slide_accuracy": 0.0,
+      "cross_slide_accuracy": 0.0,
+      "accuracy_gap": 0.0,
+      "silhouette_score_class": 0.0,
+      "silhouette_score_slide": 0.0,
+      "knn_same_slide_fraction": 0.0,
+      "slide_id_accuracy": 0.0,
+      "confusion_attribution": 0.0
+    }
+  }
+}
