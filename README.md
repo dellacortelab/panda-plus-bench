@@ -1,7 +1,7 @@
 # PANDA-PLUS-Bench: Evaluating WSI-Specific Feature Collapse
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dellacortelab/PANDA-PLUS-Bench/blob/main/PANDA_PLUS_Bench_Evaluation.ipynb)
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-PANDA--PLUS--Bench-yellow)](https://huggingface.co/datasets/dellacortelab/PANDA-PLUS-Bench)
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-PANDA--PLUS--Bench-yellow)](https://huggingface.co/datasets/dellacorte/PANDA-PLUS-Bench)
 
 A standardized benchmark for evaluating pathology foundation models on whole-slide image (WSI)-specific feature collapse.
 
@@ -63,7 +63,7 @@ The benchmark uses the PANDA dataset with controlled augmentations:
   - `macenko_normalization`: Stain normalization
   - `hed_stain_augmentation`: H&E stain variation
 
-Dataset available at: [huggingface.co/datasets/dellacortelab/PANDA-PLUS-Bench](https://huggingface.co/datasets/dellacortelab/PANDA-PLUS-Bench)
+Dataset available at: [huggingface.co/datasets/dellacorte/PANDA-PLUS-Bench](https://huggingface.co/datasets/dellacorte/PANDA-PLUS-Bench)
 
 ## 📈 Supported Models
 
