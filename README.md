@@ -108,7 +108,7 @@ If you use PANDA-PLUS-Bench in your research, please cite:
 ```bibtex
 @article{ebbert2025pandaplusbench,
   title={PANDA-PLUS-Bench: A Benchmark for Evaluating WSI-Specific Feature Collapse in Pathology Foundation Models},
-  author={Ebbert, Jacob and Della Corte, Dennis},
+  author={Ebbert, Joshua and Della Corte, Dennis},
   year={2025}
 }
 ```
@@ -132,7 +132,7 @@ The code in this repository is licensed under the MIT License - see the LICENSE 
 
 ## 📧 Contact
 
-- **Maintainers**: Jacob Ebbert, Dennis Della Corte
+- **Maintainers**: Joshua Ebbert, Dennis Della Corte
 - **Lab**: [Della Corte Lab](https://github.com/dellacortelab)
 - **Issues**: [GitHub Issues](https://github.com/dellacortelab/PANDA-PLUS-Bench/issues)
 
